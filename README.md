@@ -1,6 +1,7 @@
 #NEW ASSIGMENT-LINK
-
 https://themes.templatescoder.com/pizzon/html/demo/1-1/
+
+
 
 #JAVASCRIPT FOR SLIDER
 $(document).ready(function(){
